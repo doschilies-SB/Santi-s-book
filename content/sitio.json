@@ -1,0 +1,52 @@
+{
+  "name": "Santi´s Book",
+  "author": "Santi Buffa",
+  "url": "",
+  "description": "Escritos y pensamientos de Santi Buffa. Opinión política, arte, filosofía, cuentos y poemas.",
+  "welcome": [
+    "a una faceta muy personal donde voy a dejar mis escritos y pensamientos.",
+    "Van a encontrar principalmente opinión política y ensayos sobre arte, filosofía y temáticas varias. Cuentos y poemas también.",
+    "Ojalá los disfruten. Si nos cruzamos en la calle, cuéntenme qué les pareció. Y si algún día no estoy más, entrenen una IA para que no me extrañen mucho."
+  ],
+  "about": [
+    "Nací en 1995 en Campana, Buenos Aires y fuí criado en Córdoba desde los seis años. Soy un chico de los 90'. Crecí jugando en la plaza, viendo la tele y haciendo deporte. Estudié y me recibí de la Licenciatura de Relaciones Internacionales.",
+    "Ante todo soy amigo, hermano y una persona curiosa. Me apasiona la filosofía, la antropología y la política, el arte y la expresión humana en todas sus formas. Intento tocar la guitarra, pintar y dibujar. Tambien escribir.",
+    "Aca voy a dejar un poco de mí porque me invade la urgencia de crear. Y con suerte de dejar una visión y un legado más en esta fascinante aventura que es vivir entre tantas historias.",
+    "sean bienvenidos siempre."
+  ],
+  "initialCategories": ["Opinión política"],
+  "exhibition": {
+    "title": "Noctámbulos",
+    "originalTitle": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": "1942",
+    "medium": "Óleo sobre lienzo",
+    "image": "/assets/noctambulos.jpg",
+    "imageWidth": 3000,
+    "imageHeight": 1635,
+    "alt": "Un bar iluminado en una esquina de la ciudad de noche. Tres clientes y un camarero, vistos desde la calle, en Noctámbulos de Edward Hopper.",
+    "sourceName": "Art Institute of Chicago",
+    "sourceUrl": "https://www.artic.edu/artworks/111628/nighthawks",
+    "reproductionUrl": "https://commons.wikimedia.org/wiki/File:Hopper_Nighthawks.jpg",
+    "note": "Cada tanto, el cuadro va a cambiar. Con él van a cambiar los colores, la luz y el ambiente de esta página. La estética acompaña a la obra que esté expuesta.",
+    "reflection": [
+      "El cuadro *Noctámbulos* está posicionado desde los ojos de alguien que camina y observa. En la noche, en la soledad. No me siento particularmente una persona solitaria y ultimamente cada vez menos noctambulo, de hecho todo lo contrario. Pero si habita en mi este personaje que mira y camina.",
+      "A veces observa sin juzgar, vaga en las calle y se funde en el paisaje. A veces conjetura e imagina historias sobre el tipo que está sentado solo o sobre la pareja en la otra esquina. La noche es una invitación a descubrir la otra cara de la ciudad, la ciudad que se muestra cuando todos duermen."
+    ],
+    "theme": {
+      "night": "#101e1b",
+      "wall": "#1b322a",
+      "light": "#ede3ba",
+      "paper": "#f2ecd9",
+      "ink": "#25332b",
+      "muted": "#bbbfab",
+      "accent": "#cc9b58",
+      "rust": "#7f4030"
+    },
+    "motifs": {
+      "image": "/assets/objetos-nocturnos.png",
+      "hatPosition": "left center",
+      "napkinPosition": "right center"
+    }
+  }
+}
