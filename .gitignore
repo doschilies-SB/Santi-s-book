@@ -3,6 +3,7 @@ dist/
 .dist-tmp*/
 .vercel/
 *.docx
+content/escritos/*.txt
 .DS_Store
 .env
 .env.*
